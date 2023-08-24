@@ -1,4 +1,4 @@
-# Istio
+# Istio66
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1395/badge)](https://bestpractices.coreinfrastructure.org/projects/1395)
 [![Go Report Card](https://goreportcard.com/badge/github.com/istio/istio)](https://goreportcard.com/report/github.com/istio/istio)
@@ -50,7 +50,7 @@ Istio is composed of these components:
 
   > Note: The service mesh is not an overlay network. It
   > simplifies and enhances how microservices in an application talk to each
-  > other over the network provided by the underlying platform.
+  > other over the network provided by the underlying platform ok.
 
 - **Istiod** - The Istio control plane. It provides service discovery, configuration and certificate management. It consists of the following sub-components:
 
